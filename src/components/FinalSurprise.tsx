@@ -8,7 +8,7 @@ import SceneShell from './SceneShell';
 /**
  * ============================================================
  *  💖 For You, My Pookie
- *  🧑‍💻 Crafted with love by Mohammad Fazil Firojkhan Malek
+ *  🧑‍💻 Crafted with love by unpaidlyfintern aka Punit
  * ============================================================
  */
 
