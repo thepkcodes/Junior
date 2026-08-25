@@ -514,7 +514,7 @@ export default function Proposal() {
           className="text-base font-medium tracking-wide text-rose-500 md:text-lg"
         >
           I have a little question
-          for you...
+          for you, Arushi. 🥹
         </motion.p>
 
         {/* ================================= */}
