@@ -1,4 +1,4 @@
-import Proposal from './components/Proposal';
+import Proposal from './components/proposal';
 
 export default function App() {
   return (
